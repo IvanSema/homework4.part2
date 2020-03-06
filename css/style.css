@@ -59,12 +59,19 @@ footer{
 }
 
 .social{
-    font-size: 15px;
+    font-size: 20px;
     text-align:center;
+    font-family: 'Open Sans Semibold';
+
 }
 
 .sep-line{
     text-align: center;
+}
+
+.sep-line img{
+    width:230px;
+    margin-left: 5px;
 }
 
 .smm{
@@ -72,10 +79,11 @@ footer{
 }
 
 .smm img{
-    padding: 15px;
+    padding: 20px;
 }
 
 .rights{
     text-align:center;
+    font-size: 15px;
     padding: 42px;
-}
+    }
