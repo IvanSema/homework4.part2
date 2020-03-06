@@ -1,0 +1,80 @@
+body {
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+}
+
+body, form, div, p, a, img, h1, h2, h3, h4, h5, h6, table, table tr, table td {
+    border: none;
+    color: #fefbfc;
+    font-family: 'Open Sans';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 50;
+    margin: 0;
+    padding: 0;
+}
+
+input,
+textarea,
+select {
+    outline: none;
+    font-family: Arial;
+    font-size: 12px;
+    box-sizing: border-box;
+}
+
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: underline;
+    outline: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h1, h2 {
+    font-size: 20px;
+    padding: 0 0 10px 0;
+    color: #545454;
+}
+
+footer{
+    background: #121116;
+}
+
+header p{
+    text-align:center;
+}
+
+.logo{
+    height: 37px;
+    width: 115px;
+}
+
+.social{
+    font-size: 15px;
+    text-align:center;
+}
+
+.sep-line{
+    text-align: center;
+}
+
+.smm{
+    text-align: center;
+}
+
+.smm img{
+    padding: 15px;
+}
+
+.rights{
+    text-align:center;
+    padding: 42px;
+}
